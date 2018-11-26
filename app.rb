@@ -12,4 +12,4 @@ post('/signup') do
   puts params[:email]
   "All OK"
 
-  end
+end
