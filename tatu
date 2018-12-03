@@ -1,0 +1,84 @@
+[33mcommit a06586b6b061cf2251364cd84b86a21350d31871[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: etfeire <etfeire@gmail.com>
+Date:   Sun Dec 2 21:27:24 2018 +0000
+
+    Modified indez.html and added style.css
+
+[33mcommit fb2d8960d53e64e1cc6498f8dbb5a230a1c03f84[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mirabeladan <mirabeladan@live.de>
+Date:   Sun Dec 2 20:23:16 2018 +0000
+
+    added index and thanks files
+
+[33mcommit 32f75e2e5386a1b31d04171123d0c554f93cfd37[m
+Author: MariyaPo <mariya.podosinova@gmail.com>
+Date:   Sun Dec 2 18:29:38 2018 +0000
+
+    registration form was added
+
+[33mcommit 220a547c72cbec8dd417dd26979cfd2247b02071[m
+Merge: 39d4f9e 245335c
+Author: MariyaPo <mariya.podosinova@gmail.com>
+Date:   Mon Nov 26 20:13:44 2018 +0000
+
+    Merge branch 'master' of https://github.com/schmaits/the-great-cfg-bake-off
+
+[33mcommit 245335c36dc08bf49888cc316b4d055b93446522[m
+Author: etfeire <etfeire@gmail.com>
+Date:   Mon Nov 26 20:11:55 2018 +0000
+
+    Working app with config.ru
+
+[33mcommit 069b451082584842439242214efd1d3ee10f1416[m
+Author: etfeire <etfeire@gmail.com>
+Date:   Mon Nov 26 20:11:36 2018 +0000
+
+    Delete extra app directory
+
+[33mcommit 39d4f9ef61b2ab50e2fee30fedbfb5f4118bf167[m
+Author: MariyaPo <mariya.podosinova@gmail.com>
+Date:   Mon Nov 26 20:10:25 2018 +0000
+
+    first version
+
+[33mcommit 235edf0d019867b35a6eb14ff41d5bd79afcf1dc[m
+Author: etfeire <etfeire@gmail.com>
+Date:   Mon Nov 26 20:02:23 2018 +0000
+
+    Added twitter.rb file
+
+[33mcommit f9f90a33c1263bd2f3273e6efe2db45f6fc781fb[m
+Author: etfeire <etfeire@gmail.com>
+Date:   Mon Nov 19 20:29:26 2018 +0000
+
+    rack up file
+
+[33mcommit 2270e0d50c406c7b0fbe8b2ee6678c9c61681ffe[m[33m ([m[1;31morigin/testbranch[m[33m)[m
+Author: etfeire <etfeire@gmail.com>
+Date:   Mon Nov 19 19:50:12 2018 +0000
+
+    attempt to fix the files!
+
+[33mcommit 6924688e0393f4421a4a7dfaadd2840208ce103f[m
+Author: etfeire <43323470+etfeire@users.noreply.github.com>
+Date:   Mon Nov 19 18:59:54 2018 +0000
+
+    Create email.rb
+
+[33mcommit 8e06944b1675b5d4853c6b3f874111a0bfe739f0[m
+Author: etfeire <43323470+etfeire@users.noreply.github.com>
+Date:   Mon Nov 19 18:59:27 2018 +0000
+
+    Create hello.erb
+
+[33mcommit eea1d106b93493d43ba13398fa479241541750c2[m
+Author: etfeire <43323470+etfeire@users.noreply.github.com>
+Date:   Mon Nov 19 18:58:07 2018 +0000
+
+    Create README.md
+
+[33mcommit 679db697973de8c434e345c61ceb99a96178b450[m
+Author: mirabeladan <mirabeladan@live.de>
+Date:   Sat Nov 17 14:54:27 2018 +0000
+
+    initial commit
