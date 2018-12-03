@@ -57,14 +57,17 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <a href="https://www.bbcgoodfood.com/recipes/easy-chocolate-cake">Our favourite chocolate cake - click here for the recipe!</a>
   </div>
    <!-- Footer -->
-  <footer class="w3-modal-content" style="padding:32px">
+  <footer class="w3-modal-content" style="padding:2px">
      <div class="w3-container w3-light-grey">
       <i onclick="document.getElementById('subscribe').style.display='none'" class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right"></i>
       <h2 class="w3-wide">SUBSCRIBE</h2>
       <p>Join my mailing list to receive updates on the latest blog posts and other things.</p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Enter your Name"></p>
-      <p><input class="w3-input w3-border" type="text" placeholder="Enter e-mail"></p>
+      <form action="/signup" method="post">
+      <p><input class="w3-input w3-border" type="text" placeholder="Enter your Name" value="" name="name"></p>
+      <p><input class="w3-input w3-border" type="text" placeholder="Enter e-mail" value="" name="email"></p>
       <button type="button" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'">Subscribe</button>
+      <input type="submit" value="Submit">
+      </form>
     </div>
    </footer>
 
